@@ -43,7 +43,7 @@ Visualizes results through an interactive Streamlit dashboard
 
 This dashboard replaces the previous Titanic analysis section in the data-analysis repository and provides a clearer, more structured, and more interactive way to explore the dataset.
 
-این بخش از ریپوی data-analysis یک تحلیل ساختارمند از داده‌های مربوط به مسافران کشتی تایتانیک ارائه می‌دهد. تمرکز پروژه بر بررسی عوامل مؤثر بر زنده‌ماندن مسافران و نمایش نتایج به‌صورت داشبورد تعاملی است.
+یک تحلیل ساختارمند از داده‌های مربوط به مسافران کشتی تایتانیک ارائه می‌دهد. تمرکز پروژه بر بررسی عوامل مؤثر بر زنده‌ماندن مسافران و نمایش نتایج به‌صورت داشبورد تعاملی است.
 
 محتوای پروژه
 پاک‌سازی و آماده‌سازی داده‌ها
