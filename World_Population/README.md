@@ -106,15 +106,6 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 
 ---
 
-## تصاویر داشبورد
-
-### صفحه اصلی داشبورد
-<img src="image1.png" width="700">
-
-### بخش پیش‌بینی جمعیت ایران
-<img src="image2.png" width="700">
-
----
 
 ## بخش‌های داشبورد
 - جمعیت قاره‌ها در سال 2022  
