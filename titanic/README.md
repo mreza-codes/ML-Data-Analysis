@@ -1,68 +1,91 @@
-Titanic Survival Analysis Dashboard
-This project provides a clean and structured analysis of the Titanic dataset using a Streamlit dashboard.
+# 🚢 Titanic Survival Analysis Dashboard
+
+This project provides a clean and structured analysis of the Titanic dataset using a Streamlit dashboard.  
 The dataset contains demographic and travel information about passengers aboard the RMS Titanic, along with their survival status.
 
-Dataset
-The dataset used in this project is publicly available on Kaggle:
+---
+
+## 📁 Dataset  
+The dataset used in this project is publicly available on Kaggle:  
 https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 It includes key features such as:
 
-Passenger age
+- Passenger age  
+- Sex  
+- Ticket class  
+- Fare  
+- Number of siblings/spouses aboard  
+- Number of parents/children aboard  
+- Survival outcome  
 
-Sex
+---
 
-Ticket class
+## 📸 Screenshots
 
-Fare
+### Dataset Overview
+<img src="image1.png" width="700">
 
-Number of siblings/spouses aboard
+### Survival by Gender
+<img src="image2.png" width="700">
 
-Number of parents/children aboard
+### Survival by Class
+<img src="image3.png" width="700">
 
-Survival outcome
+### Average Age (Survived vs Dead)
+<img src="image4.png" width="700">
 
-What This Project Does
-Cleans and preprocesses the dataset
+### Survival by Age Group
+<img src="image5.png" width="700">
 
-Fills missing age values using a Random Forest model
+### Survival by Age Group + Gender
+<img src="image6.png" width="700">
 
-Removes outliers for more accurate analysis
+---
 
-Calculates survival rates by:
+## 🧹 What This Project Does
 
-Gender
+- Cleans and preprocesses the dataset  
+- Fills missing age values using a **Random Forest** model  
+- Removes outliers for more accurate analysis  
+- Calculates survival rates by:
+  - Gender  
+  - Passenger class  
+  - Age groups  
+  - Combined gender & age groups  
+- Visualizes results through an interactive **Streamlit dashboard**  
 
-Passenger class
+This dashboard replaces the previous Titanic analysis section in the **data-analysis** repository and provides a clearer, more structured, and more interactive way to explore the dataset.
 
-Age groups
+---
 
-Combined gender & age groups
+## 🖥️ Running the Dashboard
 
-Visualizes results through an interactive Streamlit dashboard
+Use the following command:
 
-This dashboard replaces the previous Titanic analysis section in the data-analysis repository and provides a clearer, more structured, and more interactive way to explore the dataset.
+streamlit run Dashboard.py
 
-یک تحلیل ساختارمند از داده‌های مربوط به مسافران کشتی تایتانیک ارائه می‌دهد. تمرکز پروژه بر بررسی عوامل مؤثر بر زنده‌ماندن مسافران و نمایش نتایج به‌صورت داشبورد تعاملی است.
 
-محتوای پروژه
-پاک‌سازی و آماده‌سازی داده‌ها
+---
 
-تکمیل مقادیر خالی سن با مدل Random Forest
 
-حذف داده‌های پرت برای افزایش دقت تحلیل
+این پروژه یک تحلیل ساختارمند از داده‌های مربوط به مسافران کشتی تایتانیک ارائه می‌دهد.  
+تمرکز پروژه بر بررسی عوامل مؤثر بر زنده‌ماندن مسافران و نمایش نتایج به‌صورت داشبورد تعاملی است.
 
-محاسبه نرخ زنده‌ماندن بر اساس:
+## محتوا
+- پاک‌سازی و آماده‌سازی داده‌ها  
+- تکمیل مقادیر خالی سن با مدل Random Forest  
+- حذف داده‌های پرت برای افزایش دقت تحلیل  
+- محاسبه نرخ زنده‌ماندن بر اساس:
+  - جنسیت  
+  - کلاس سفر  
+  - گروه‌های سنی  
+  - ترکیب جنسیت و گروه سنی  
+- نمایش نتایج در قالب داشبورد Streamlit  
 
-جنسیت
+## هدف  
+ارائه یک تحلیل قابل‌فهم، تمیز و تعاملی که جایگزین نسخهٔ قبلی تحلیل تایتانیک در ریپوی **data-analysis** شده و امکان بررسی سریع و دقیق الگوهای زنده‌ماندن را فراهم می‌کند.
 
-کلاس سفر
+## اجرای داشبورد  
 
-گروه‌های سنی
-
-ترکیب جنسیت و گروه سنی
-
-نمایش نتایج در قالب داشبورد Streamlit
-
-هدف
-ارائه یک تحلیل قابل‌فهم، تمیز و تعاملی که جایگزین نسخهٔ قبلی تحلیل تایتانیک در ریپوی data-analysis شده و امکان بررسی سریع و دقیق الگوهای زنده‌ماندن را فراهم می‌کند.
+streamlit run Dashboard.py
