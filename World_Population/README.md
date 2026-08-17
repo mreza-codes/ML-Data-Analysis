@@ -9,6 +9,16 @@ The goal of this project is to explore population trends, visualize key demograp
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard Home
+<img src="image1.png" width="700">
+
+### Iran Population Prediction (ML)
+<img src="image2.png" width="700">
+
+---
+
 ## 📊 Features & Visualizations
 
 ### 1. Population by Continent (2022)
@@ -50,6 +60,7 @@ The entire analysis is integrated into a clean and interactive Streamlit app wit
 - Iran ML Prediction  
 
 Run the dashboard using:
+
 streamlit run Dashboard.py
 
 
@@ -84,7 +95,6 @@ World Population Dataset (Kaggle)
 https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 
 ---
- 
 
 # داشبورد تحلیل جمعیت جهان
 
@@ -93,6 +103,18 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 
 🔗 لینک دیتاست:  
 https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
+
+---
+
+## تصاویر داشبورد
+
+### صفحه اصلی داشبورد
+<img src="image1.png" width="700">
+
+### بخش پیش‌بینی جمعیت ایران
+<img src="image2.png" width="700">
+
+---
 
 ## بخش‌های داشبورد
 - جمعیت قاره‌ها در سال 2022  
