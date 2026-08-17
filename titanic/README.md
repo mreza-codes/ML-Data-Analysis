@@ -24,22 +24,22 @@ It includes key features such as:
 ## 📸 Screenshots
 
 ### Dataset Overview
-<img src="image1.png" width="700">
+<img src="images/image1.png" width="700">
 
 ### Survival by Gender
-<img src="image2.png" width="700">
+<img src="images/image2.png" width="700">
 
 ### Survival by Class
-<img src="image3.png" width="700">
+<img src="images/image3.png" width="700">
 
 ### Average Age (Survived vs Dead)
-<img src="image4.png" width="700">
+<img src="images/image4.png" width="700">
 
 ### Survival by Age Group
-<img src="image5.png" width="700">
+<img src="images/image5.png" width="700">
 
 ### Survival by Age Group + Gender
-<img src="image6.png" width="700">
+<img src="images/image6.png" width="700">
 
 ---
 
