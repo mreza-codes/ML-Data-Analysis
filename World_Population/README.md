@@ -12,10 +12,12 @@ The goal of this project is to explore population trends, visualize key demograp
 ## 📸 Screenshots
 
 ### Dashboard Home
-<img src="image1.png" width="700">
+<img src="images/image1.png" width="700">
+
 
 ### Iran Population Prediction (ML)
-<img src="image2.png" width="700">
+<img src="images/image2.png" width="700">
+
 
 ---
 
